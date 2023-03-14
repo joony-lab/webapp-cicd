@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e4b56b1e-eeea-40b7-ad50-c9a87e18225e/resourceGroups/rg-webapp-cicd/providers/Microsoft.Web/sites/joony-webapp"
+}
